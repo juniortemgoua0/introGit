@@ -1,4 +1,4 @@
-bienvenu a cette introduction sur git 
+bienvenu a cette introduction sur git .
 
 
 
